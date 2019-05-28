@@ -1,0 +1,21 @@
+approvers:
+- rawlingsj
+- jenkins-x-bot
+- jstrachan
+- rajdavies
+- ccojocar
+- garethjevans
+- pmuir
+- cagiti
+- macox
+- warrenbailey
+reviewers:
+- rawlingsj
+- jstrachan
+- rajdavies
+- ccojocar
+- garethjevans
+- pmuir
+- cagiti
+- macox
+- warrenbailey
